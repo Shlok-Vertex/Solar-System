@@ -20,7 +20,7 @@ This project is designed to provide information about the sun and moon, includin
 ## Usage
 To run the project, use the following command:
 ```bash
-python main.py
+npm run dev
 ```
 
 ## Features
