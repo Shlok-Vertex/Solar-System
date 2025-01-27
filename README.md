@@ -47,7 +47,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact Information
 For any inquiries, please contact:
-- Email: sahil@example.com
+- Email: mrmanishkr7911@example.com
 - GitHub: [Your GitHub Profile](https://github.com/yourprofile)
 - Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
 
