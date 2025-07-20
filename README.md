@@ -1,4 +1,4 @@
-# Sun and Moon
+# Sun ☀️ and Moon 🌙. 
 
 ## Description
 This project is designed to provide information about the sun and moon, including their positions, phases, and other astronomical data.
