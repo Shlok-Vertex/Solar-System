@@ -30,7 +30,7 @@ npm run dev
 - Provides sunrise and sunset times.
 - Offers moon phase predictions.
 
-## Technologies Used
+## Technologies Used. 
 - Python
 - Flask (for web framework)
 - JavaScript (for interactive features)
